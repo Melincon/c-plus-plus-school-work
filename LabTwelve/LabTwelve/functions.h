@@ -1,0 +1,1 @@
+void addten(int *ptr);

@@ -1,0 +1,13 @@
+﻿Build started 11/18/2015 9:26:16 PM.
+     1>Project "c:\Users\Travis\documents\visual studio 2015\Projects\HW3slib\HW3slib\HW3slib.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\HW3slib.pdb" /Gd /TP /analyze- /errorReport:prompt carDef.cpp
+         carDef.cpp
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\Lib.exe /OUT:"c:\users\travis\documents\visual studio 2015\Projects\HW3slib\Debug\HW3slib.lib" /NOLOGO Debug\carDef.obj
+         HW3slib.vcxproj -> c:\users\travis\documents\visual studio 2015\Projects\HW3slib\Debug\HW3slib.lib
+     1>Done Building Project "c:\Users\Travis\documents\visual studio 2015\Projects\HW3slib\HW3slib\HW3slib.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.02

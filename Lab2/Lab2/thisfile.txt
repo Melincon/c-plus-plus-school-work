@@ -1,0 +1,13 @@
+January: $100
+February: $65
+March: $81
+April: $63
+May: $50
+June: $73
+July: $79
+August: $44
+September: $63
+October: $71
+November: $63
+December: $49
+Total sales for the year: $801

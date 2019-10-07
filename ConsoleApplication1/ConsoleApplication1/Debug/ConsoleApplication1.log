@@ -1,0 +1,9 @@
+﻿Build started 9/16/2015 2:49:08 PM.
+     1>Project "c:\Users\Travis\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         ConsoleApplication1.vcxproj -> c:\Users\Travis\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Debug\ConsoleApplication1.exe
+     1>Done Building Project "c:\Users\Travis\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.07

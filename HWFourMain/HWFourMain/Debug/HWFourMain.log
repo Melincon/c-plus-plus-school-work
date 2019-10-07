@@ -1,0 +1,18 @@
+﻿Build started 12/9/2015 12:06:09 PM.
+     1>Project "C:\Users\Travis\Documents\Visual Studio 2015\Projects\HWFourMain\HWFourMain\HWFourMain.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /I"C:\Users\Travis\Documents\Visual Studio 2015\Projects\HomeworkFour\HomeworkFour" /IC:\Users\Travis\Desktop\HW3slib\HW3slib\HW3slib /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt functions.cpp main.cpp
+         functions.cpp
+         Generating Code...
+         Compiling...
+         main.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Travis\Documents\Visual Studio 2015\Projects\HWFourMain\Debug\HWFourMain.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\Users\Travis\Desktop\HW3slib\HW3slib\Debug /LIBPATH:"C:\Users\Travis\Documents\Visual Studio 2015\Projects\HomeworkFour\Debug" HW3slib.lib HomeworkFour.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Travis\Documents\Visual Studio 2015\Projects\HWFourMain\Debug\HWFourMain.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Travis\Documents\Visual Studio 2015\Projects\HWFourMain\Debug\HWFourMain.lib" /MACHINE:X86 Debug\functions.obj
+         Debug\main.obj
+         HWFourMain.vcxproj -> C:\Users\Travis\Documents\Visual Studio 2015\Projects\HWFourMain\Debug\HWFourMain.exe
+     1>Done Building Project "C:\Users\Travis\Documents\Visual Studio 2015\Projects\HWFourMain\HWFourMain\HWFourMain.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.24
